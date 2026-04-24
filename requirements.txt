@@ -1,6 +1,7 @@
-streamlit
-tensorflow==2.20.0
+streamlit==1.36.0
+tensorflow==2.16.1
 pandas
 numpy
 scikit-learn
 joblib
+python-dateutil
